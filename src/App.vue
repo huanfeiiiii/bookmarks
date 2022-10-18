@@ -4,7 +4,7 @@ import { ref, watchEffect } from "vue";
 const items = ref(null);
 
 watchEffect(async () => {
-    const url = "src/assets/links.json";
+    const url = "https://cdn.jsdelivr.net/gh/huanfeiiiii/cdn@main/links.json";
     items.value = await (await fetch(url)).json();
 });
 
