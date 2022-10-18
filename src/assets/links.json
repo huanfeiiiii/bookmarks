@@ -1,0 +1,157 @@
+[
+    {
+        "class_name": "图片相关",
+        "class_links": [
+            {
+                "name": "SM.MS",
+                "link": "https://sm.ms/",
+                "desc": "Simple Free Image Hosting",
+                "logo": "https://sm.ms/favicon.ico"
+            },
+            {
+                "name": "路过图床",
+                "link": "https://imgse.com/",
+                "desc": "高速稳定的图片上传和外链服务",
+                "logo": "https://imgse.com/content/images/system/favicon_1587118523486_91617a.png"
+            },
+            {
+                "name": "tinypng",
+                "link": "https://tinypng.com/",
+                "desc": "在线压缩工具",
+                "logo": "https://tinypng.com/images/favicon.ico"
+            },
+            {
+                "name": "佐糖",
+                "link": "https://picwish.cn/",
+                "desc": "抠图、一键更换人物背景",
+                "logo": "https://qncdn.aoscdn.com/img/picwish-home/favicon.png"
+            },
+            {
+                "name": "wallhaven",
+                "link": "https://wallhaven.cc/",
+                "desc": "高质量壁纸站",
+                "logo": "https://wallhaven.cc/favicon.ico"
+            }
+        ]
+    },
+    {
+        "class_name": "字体图标",
+        "class_links": [
+            {
+                "name": "font awesome",
+                "link": "https://fontawesome.com/search",
+                "desc": "字体图标库",
+                "logo": "https://fontawesome.com/favicon.ico"
+            }
+        ]
+    },
+    {
+        "class_name": "工具",
+        "class_links": [
+            {
+                "name": "孟坤工具箱",
+                "link": "http://tool.mkblog.cn/",
+                "desc": "多种工具合集",
+                "logo": "http://tool.mkblog.cn/favicon.ico"
+            },
+            {
+                "name": "在线工具箱",
+                "link": "https://tool.lu/",
+                "desc": "在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码,照片压缩,pdf合并",
+                "logo": "https://tool.lu/favicon.ico"
+            },
+            {
+                "name": "偷懒工具",
+                "link": "https://toolight.cn/",
+                "desc": "偷懒工具是生活、学习、工作的必备工具箱",
+                "logo": ""
+            },
+            {
+                "name": "MikuTools",
+                "link": "https://tools.miku.ac/",
+                "desc": "一个轻量的工具集合",
+                "logo": "https://tools.miku.ac/favicon.ico"
+            },
+            {
+                "name": "在线转换文档",
+                "link": "https://www.aconvert.com/cn/",
+                "desc": "在线转换PDF，在线转换文档，在线转换电子书，在线转换图像，在线转换视频，在线转换音频。",
+                "logo": "https://www.aconvert.com/favicon.ico"
+            }
+        ]
+    },
+    {
+        "class_name": "云服务",
+        "class_links": [
+            {
+                "name": "腾讯云",
+                "link": "https://cloud.tencent.com/",
+                "logo": "https://cloud.tencent.com/favicon.ico"
+            },
+            {
+                "name": "阿里云",
+                "link": "https://www.aliyun.com/",
+                "logo": "https://www.aliyun.com/favicon.ico"
+            },
+            {
+                "name": "百度云",
+                "link": "https://cloud.baidu.com/",
+                "logo": "https://bce.bdstatic.com/img/favicon.ico"
+            },
+            {
+                "name": "华为云",
+                "link": "https://www.huaweicloud.com/",
+                "logo": "https://res-static.hc-cdn.cn/aem/content/dam/cloudbu-site/archive/commons/web_resoure/cms/static/images/global/favicon.ico"
+            },
+            {
+                "name": "又拍云",
+                "link": "https://www.upyun.com/",
+                "logo": "https://www.upyun.com/favicon.ico"
+            },
+            {
+                "name": "七牛云",
+                "link": "https://www.qiniu.com/",
+                "logo": "https://www.qiniu.com/favicon.ico"
+            },
+            {
+                "name": "坚果云",
+                "link": "https://www.jianguoyun.com/",
+                "logo": "https://www.jianguoyun.com/favicon.ico"
+            }
+        ]
+    },
+    {
+        "class_name": "音乐解析",
+        "class_links": [
+            {
+                "name": "MyFreeMP3",
+                "link": "http://tools.liumingye.cn/music/",
+                "desc": "搜索歌曲，支持下载 无损 / 320k/192k",
+                "logo": "http://tools.liumingye.cn/favicon.ico"
+            }
+        ]
+    },
+    {
+        "class_name": "临时工具",
+        "class_links": [
+            {
+                "name": "网络剪贴板",
+                "link": "https://netcut.cn/",
+                "desc": "网络剪贴板是一款极简的提供跨平台的文本复制粘贴和全格式文件传送的在线工具，操作简单，让数据传送更简单",
+                "logo": "https://netcut.cn/favicon.ico"
+            },
+            {
+                "name": "临时邮箱",
+                "link": "https://netcut.cn/",
+                "desc": "在线生成临时邮箱、十分钟邮箱（10分钟)、临时邮、临时Email、快速注册Email、24小时Mail，开通邮箱最长支持24小时，支持邮件转发，自动刷新！",
+                "logo": ""
+            },
+            {
+                "name": "美国地址生成器",
+                "link": "https://www.meiguodizhi.com/",
+                "desc": "随机生成美国地址, 身份信息，信用卡信息，手机号码和其他基本信息。还会随机生成工作信息，财务信息，兴趣爱好等信息。",
+                "logo": "https://static11.meiguodizhi.com/favicon.ico"
+            }
+        ]
+    }
+]

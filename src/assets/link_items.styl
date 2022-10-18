@@ -1,0 +1,123 @@
+nav_with = 200px;
+
+a
+  text-decoration: none;
+  color: #000;
+
+.link
+  display: flex;
+  flex-flow: column;
+
+.link_nav
+  display: block;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: nav_with;
+
+  @media screen and (max-width: 768px)
+    display: none;
+
+  a.link_author
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items center
+    margin-top 20px
+
+    img
+      size = 40px;
+      border-radius: 50%;
+      width: size;
+      height: size;
+
+    p
+      margin-left: 10px;
+
+  .nav_items
+    margin-top: 80px;
+
+    a.nav_item
+      display: block;
+      margin: 20px auto;
+      width: fit-content;
+
+      &:hover
+        color: #12affa;
+
+.link_items
+  padding: 20px;
+  margin-left: nav_with;
+
+  @media screen and (max-width: 768px)
+    margin-left: 0;
+
+  .link_item
+    .item_title
+      font-size: 22px;
+      width: fit-content;
+
+      &:hover .hash-link
+        display: inline-block;
+
+      .hash-link
+        display: none;
+        color: #12affa;
+        font-weight: bold;
+        margin-left: 3px;
+
+        &:hover
+          text-decoration: underline;
+
+    .links
+      margin: 20px 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      column-gap: 10px;
+      row-gap: 10px;
+
+      @media screen and (max-width: 1280px)
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+
+      @media screen and (max-width: 1024px)
+        grid-template-columns: 1fr 1fr 1fr;
+
+      @media screen and (max-width: 768px)
+        grid-template-columns: 1fr 1fr 1fr;
+
+      @media screen and (max-width: 640px)
+        grid-template-columns: 1fr 1fr;
+
+      a
+        background-color: #F7F7F7;
+        border-radius: 10px;
+        box-sizing: border-box;
+        padding: 20px;
+        border: 1px solid #eee;
+
+        &:hover
+          box-shadow: 0 0 4px #cecece;
+          opacity: 0.9;
+
+        .title
+          display: flex;
+          align-items: center;
+
+          .name
+            text-transform: capitalize;
+
+          img
+            height: 18px;
+            width: 18px;
+            margin-right: 5px;
+
+        .desc
+          font-size: 15px;
+          margin-top: 5px;
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 2;
+          overflow: hidden;
+          opacity: 0.5;
